@@ -5,11 +5,14 @@
     </a>
   </p>
   <h1 align="center">Atlas OS Documentation Center</h1>
-  This is Atlas OS' public documentation center.
+  <p align="center">This is Atlas OS' public documentation center.</p>
+  <h6 align="right">For support: support@atlas-os.org</h6>
 </p>
 
 ## 1. Text Documentations
+  1.1. If you prefer video, jump to our [Video Tutorials section](#video-tutorial-section-anchor).
 
+<a name="video-tutorial-section-anchor"></a>
 ## 2. Video Tutorials
 
   2.1. How to creat an Atlas OS account
